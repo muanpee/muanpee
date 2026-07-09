@@ -1,4 +1,4 @@
-# I'm Muanpee Thising
+# Hi I'm Muanpee Thising
 
 🎓 Fourth-year Software Engineering Student at Chiang Mai University
 
@@ -35,6 +35,20 @@ Designed a mobile platform based on seasonal fruit price trends in Northern Thai
 
 ---
 
+### 🎤 VocaSense
+
+**Senior Project – Software Engineering**
+
+**Jan 2026 – Present**
+
+Designed and developed a web-based voice health monitoring platform that analyzes vocal strain from users' voice recordings. Conducted UX research, designed user flows and interfaces, and collaborated on integrating AI-powered voice analysis to provide personalized vocal health insights through an intuitive dashboard.
+
+🔗 Figma (https://www.figma.com/design/Gd6eDqBXsqO8e7Jga9trqi/Final-design-Ui?node-id=1-2&p=f&t=pphHEcwy4t684hr5-0)
+
+🔗 GitHub (https://github.com/muanpee/VocaSense)
+
+---
+
 ### 📰 The Anti-Fake News System
 
 **Course Project – Component-Based Software Development**
@@ -59,35 +73,6 @@ Designed and developed a responsive e-commerce website with shopping cart, check
 
 🔗 GitHub
 🔗 Figma https://www.figma.com/design/Dp63f91QjXWZ3zR1zSSESx/4-Noodles-web?node-id=2-2&p=f&t=ZUtzrqDN0JQP2hZ7-0
-
----
-
-## 🛠 Tech Stack
-
-### Design
-- Figma
-- UX Research
-- Wireframing
-- Prototyping
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- Vue.js
-- Flutter
-
-### Backend
-- Java
-- Spring Boot
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
 
 ---
 
